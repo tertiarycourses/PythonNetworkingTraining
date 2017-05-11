@@ -1,5 +1,5 @@
 # Python Network Programming Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Python Network Programming Training](https://www.tertiarycourses.com.sg/python-network-programming-training.html) course. 
 
